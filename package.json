@@ -1,0 +1,19 @@
+{
+  "name": "vezba5",
+  "version": "1.0.0",
+  "description": "Vezba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artalz/Vezba2.git"
+  },
+  "author": "Dusan Ilic NRT9417",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artalz/Vezba2/issues"
+  },
+  "homepage": "https://github.com/Artalz/Vezba2#readme"
+}
